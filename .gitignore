@@ -1,0 +1,20 @@
+# Large / binary data files
+*.h5
+*.zip
+
+# Facial emotion image dataset
+deep_learning/facial_emotion/Facial_emotion_images/
+
+# TroopTrack saved sessions
+troop_track_session.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
